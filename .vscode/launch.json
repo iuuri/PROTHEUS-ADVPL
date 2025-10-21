@@ -25,11 +25,14 @@
 			"ignoreFiles": false
 		}
 	],
-	"lastProgramExecuted": "sigamdi",
+	"lastProgramExecuted": "sigafat",
 	"lastProgramArguments": [],
 	"lastPrograms": [
 		{
 			"label": "sigamdi"
+		},
+		{
+			"label": "sigafat"
 		}
 	]
 }

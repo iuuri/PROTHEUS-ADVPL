@@ -2,8 +2,13 @@
 
 /*/-------------------------------------------------
 {Protheus.doc} funcao01
-Exemplo de função em ADVPL
+Exemplo de função em ADVPL. Projeto 1 — Exibir um alerta simples
 @Author     Iuri Souza
-@since      05/12/2025
+@since      12/12/2025
 @Version    15/superior
 ------------------------------------------------------/*/
+User Function funcao01()
+
+	Alert("Olá mundo!")
+
+Return

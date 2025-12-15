@@ -25,7 +25,7 @@
 			"ignoreFiles": false
 		}
 	],
-	"lastProgramExecuted": "u_VerificaIdade",
+	"lastProgramExecuted": "u_GeradorSenha",
 	"lastProgramArguments": [],
 	"lastPrograms": [
 		{
@@ -45,6 +45,15 @@
 		},
 		{
 			"label": "u_VerificaIdade"
+		},
+		{
+			"label": "u_LoopContagem"
+		},
+		{
+			"label": "u_MenuOpcoes"
+		},
+		{
+			"label": "u_GeradorSenha"
 		}
 	]
 }

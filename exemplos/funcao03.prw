@@ -20,9 +20,9 @@ User Function VerificaIdade()
 			Loop
 		Else
 			If Val(cIdade) >= 18
-				MsgInfo ("A idade informada foi " + cIdade + " anos." + CRLF + "Você é maior de idade.")
+				MsgInfo("A idade informada foi " + cIdade + " anos." + CRLF + "Você é maior de idade.")
 			Else
-				MsgInfo ("A idade informada foi " + cIdade + " anos." + CRLF + "Você é menor de idade.")
+				MsgInfo("A idade informada foi " + cIdade + " anos." + CRLF + "Você é menor de idade.")
 			EndIf
 			Exit
 		EndIf

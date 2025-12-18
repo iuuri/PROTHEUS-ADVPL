@@ -5,7 +5,7 @@
 Exemplo de função em ADVPL. Projeto 5 — Menu de opções
 @Author     Iuri Souza
 @since      15/12/2025
-@Version    15/superior
+@Version    12/superior
 ------------------------------------------------------/*/
 
 User Function MenuOpcoes()

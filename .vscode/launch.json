@@ -25,7 +25,7 @@
 			"ignoreFiles": false
 		}
 	],
-	"lastProgramExecuted": "u_GeradorSenha",
+	"lastProgramExecuted": "sigamdi",
 	"lastProgramArguments": [],
 	"lastPrograms": [
 		{
@@ -54,6 +54,9 @@
 		},
 		{
 			"label": "u_GeradorSenha"
+		},
+		{
+			"label": "sigaadv"
 		}
 	]
 }
